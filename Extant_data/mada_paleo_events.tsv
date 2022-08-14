@@ -1,0 +1,43 @@
+index	time_Ma_from_plot	time_Ma_to	duration	priority	type_old	layout	priority	plot	do_as	type	description_original	description	short	location
+29	65	27.82	37.18		climate	shade	warmer	y	shade	arid belt	Madagascar passes thorugh subtropical arid belt	Madagascar passes thorugh subtropical arid belt	arid conditions across island	
+35	100.5	66	34.5		biota	shade	landbridge	no	bar	biota	cosmopolitan vertebrate species: links with other landmasses, including S. America	cosmopolitan vertebrate species: links with other landmasses, including S. America	cosmopolitan vertebrates	whole island
+33	5	0	5		biota	shade	landbridge	no	bar	biota	evidence for repeatedly emerged stepping stone islands between Madagascar and India	evidence for repeatedly emerged stepping stone islands between Madagascar and India	Indian Ocena stepping stone islands	whole island
+34	66	NaN	NaN		biota	line	high	no	bar	biota	major extinctions at K-P boundary	major extinctions at K-P boundary	K/P mass extinction	whole island
+37	34	34	0		biota	line	high	no	bar	biota	potentially larger extinction event due to shift to cooler climate	potentially larger extinction event due to shift to cooler climate	Oligocene climate shift my have caused extinctions	whole island
+27	33	NaN	NaN		climate	point	wetter	no	bar	climate	circum-Antarctic current complete, increasing S Indian Gyre	circum-Antarctic current complete, increasing S Indian Gyre	rainfall increase	whole island
+31	66	NaN	NaN		climate	point	colder	no	bar	climate	climate inferred to be cooler, less seasonal and dryer than today, but with humid areas	climate inferred to be cooler, less seasonal and dryer than today, but with humid areas	climate cooler, less seasonal than today	whole island
+25	4	3	1		climate	line	warmer	no	bar	climate	decrease in rainfall due to lower Indian Ocean temperature	decrease in rainfall due to lower Indian Ocean temperature	drier period	whole island
+28	56.5	NaN	NaN		climate	point	wetter	no	bar	climate	India moved north and lets S Indian drift hit Mad, increasing rainfall	India moved north and lets S Indian drift hit Mad, increasing rainfall	rainfall increase	whole island
+32	88	66	22		climate	shade	warmer	no	bar	climate	lower Maevarano formation: terrestrial and freshwater fauna with birds, fish, dinosaurs, reptiles, amphibians and paleosols; seasonal rains under semi-arid conditions	lower Maevarano formation: terrestrial and freshwater fauna with birds, fish, dinosaurs, reptiles, amphibians and paleosols; seasonal rains under semi-arid conditions	semi-arid conditions in north-west	north-west
+26	27.82	NaN	NaN		climate	point	wetter	no	bar	climate	Mad probably completely N of subtropical arid belt, now in trade wind zone	Mad probably completely N of subtropical arid belt, now in trade wind zone	rainfall increase	whole island
+30	65	NaN	NaN		climate	point	colder	no	bar	climate	Mad probably wholly south of subtropical arid belt, cool climate	Mad probably wholly south of subtropical arid belt, cool climate	cooler climate	whole island
+36	56	20	36		biota	shade	low	y	bar	dispersal	Africa-to-Madgascar surface currents favourable to dispersal	Africa-to-Madgascar surface currents favourable to dispersal	ocean currents favorable for dispersal from Africa	whole island
+40	12	5	7	low	landbridges	shade	landbridge	y	bar	landbridges	short-lived landbridge between Africa and Madagascar	short-lived landbridge between Africa and Madagascar	Africa-Madagascar landbridges	whole island
+39	36	30	6	low	landbridges	shade	landbridge	y	bar	landbridges	short-lived landbridge between Africa and Madagascar	short-lived landbridge between Africa and Madagascar	Africa-Madagascar landbridges	whole island
+38	66	60	6	low	landbridges	shade	landbridge	y	bar	landbridges	short-lived landbridge between Africa and Madagascar	short-lived landbridge between Africa and Madagascar	Africa-Madagascar landbridges	whole island
+23	92	84	8	low	landscape	barb	low	no	bar	landscape	island probably flat and near-sea level	island probably flat and near-sea level	island flat	whole island
+16	10	NaN	NaN	low	landscape	uncertain	same_line	no	bar	landscape	Madagascar generally lower than 500 m	Madagascar generally lower than 500 m	topography below 500 m	whole island
+17	15	0	15	high	landscape	line	high	no	bar	landscape	Madagascar uplifted through mantle convection	Madagascar uplifted through mantle convection	island uplifted	whole island
+15	112	NaN	NaN	low	tectonics	point	low	no	bar	landscape	marine conditions in western basins except Majunga basin	marine conditions in western basins except Majunga basin	western basins marine	west
+19	33.9	5.333	28.567	low	landscape	barb	low	no	bar	landscape	origin of Alaotra–Mangoro basin	origin of Alaotra–Mangoro basin	Alaotra–Mangoro basin forms	centre
+21	72	66	6	low	landscape	barb	low	no	bar	landscape	upper Maevarano formation, Maastrichtian: marine limestone	upper Maevarano formation, Maastrichtian: marine limestone	north-west marine	north-west
+0	34	34	34		climate	line	high	y	line	major	Eocene-Oligocene boundary climate shift	Eocene-Oligocene boundary climate shift	Oligocene cooling	whole island
+4	11.63	5.333	6.297		volcanism	bara	low	y	shade	major	Indian monsoon hits N-most Madagascar	Indian monsoon hits N-most Madagascar	monsoons start to hit north	north
+14	160	150	10	high	tectonics	shade	high	y	shade	major	Madagascar may have reached most S position (52° lat) then reversed northwards	Madagascar may have reached most S position (52° lat) then reversed northwards	southernmost position at 50°	whole island
+24	140	23	117	low	landscape	barb	high	y	shade	major	separation from Africa	separation from Africa	separation from Africa	whole island
+13	91	84	7	high	tectonics	shade	high	y	shade	major	separation from India-Seychelles block	separation from India-Seychelles block	separation from India	whole island
+22	140	23	38.2	low	landscape	barb	high	y	bar	submerged	substantial part of western Madagascar submerged during Maastrichtian-Eocene times	substantial part of western Madagascar submerged during Maastrichtian-Eocene times	much of western plateau below sea level	west
+18	23.03	0	23.03	high	landscape	line	iconinvolcanism	y	bar	uplift	uplift in north of island	uplift in north of island	uplift in north	north
+20	33.9	0	33.9	high	landscape	line	iconinvolcanism	y	bar	uplift	uplift in south of island	uplift in south of island	uplift in south	south
+2	5.333	2.58	2.753		volcanism	bara	volcanism	y	bar	volcanism	Ambre volcanism	Ambre volcanism	volcanism in north	north
+7	21.03	0	21.03		volcanism	bara	volcanism	y	bar	volcanism	basaltic magmatism in north, centre and south	basaltic magmatism in north, centre and south	basaltic volcanism across island	whole island
+10	33.9	5.333	28.567		volcanism	bara	volcanism	y	bar	volcanism	E-W extension with volcanism in Ankaratra	E-W extension with volcanism in Ankaratra	volcanism in centre	centre
+12	92	84	8		volcanism	bara	volcanism	y	bar	volcanism	formation of large igneous Basalt province across much of island	formation of large igneous Basalt province across much of island	basaltic volcanism across island	whole island
+9	33.9	5.333	28.567		volcanism	bara	volcanism	y	bar	volcanism	growth of Tsaratanana	growth of Tsaratanana	growth of highest peak	north
+1	5.333	2.58	2.753		volcanism	bara	volcanism	y	bar	volcanism	last phase of Ankaratra volcanism	last phase of Ankaratra volcanism	volcanism in centre	centre
+6	15	10	5		volcanism	bara	volcanism	y	bar	volcanism	mantel plume with volcanism beneath N Madagascar	mantel plume with volcanism beneath N Madagascar	volcanism in north	north
+8	27.82	23.03	4.79		volcanism	bara	volcanism	y	bar	volcanism	start of Ankaratra volcanism	start of Ankaratra volcanism	volcanism in centre	centre
+3	10.6	NaN	NaN		volcanism	bara	volcanism	y	bar	volcanism	volcanic activity at Bobaomby peninsula	volcanic activity at Bobaomby peninsula	volcanism in north	north
+5	12.1	12.1	0		volcanism	bara	volcanism	y	bar	volcanism	volcanic activity at Montagne d’Ambre	volcanic activity at Montagne d’Ambre	volcanism in north	north
+0	2.58	0	2.58		volcanism	bara	volcanism	y	bar	volcanism	volcanism in Ankaratra, Itasy	volcanism in Ankaratra, Itasy	Ankaratra & Itasy volcanism	centre
+11	47.8	41.2	6.6		volcanism	bara	volcanism	y	bar	volcanism	volcanism in Tsaratanana, Manongarivo, Ampasindava	volcanism in Tsaratanana, Manongarivo, Ampasindava	volcanism in north	north
