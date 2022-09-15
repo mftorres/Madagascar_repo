@@ -1,0 +1,15 @@
+start_ka_bp	end_ka_bp	description	type
+5.5	0	increase in aridity	climate
+2	0	grassy biome expansion	vegetation
+1.12	0.87	dog	introductions
+1.1	0.65	cattle	introductions
+1.1	0.65	rat	introductions
+1.05	0.75	bushpig	introductions
+0.95	0.55	goats and sheep	introductions
+0.934	0.801	rice	introductions
+0.585	0.585	giant lemurs (Megadalapis)	last record
+0.84	0.84	elephant birds	last record
+0.75	0.75	giant tortoise	last record
+0.95	0.95	hippopotamus	last record
+10.5	2	tentative evidence for human presence	human arrival
+1.25	0.5	human expansion	human arrival
