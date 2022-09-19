@@ -1,0 +1,31 @@
+time_Ma_from_plot	time_Ma_to	description	short	location	type	do_as	plot
+65	27.82	Madagascar passes thorugh subtropical arid belt	island within subtropical arid belt		climate	bar	y
+5	0	evidence for repeatedly emerged stepping stone islands between Madagascar and India	Indian Ocena stepping stone islands	whole island	biotic dispersal	bar	y
+4	3	decrease in rainfall due to lower Indian Ocean temperature	drier period	whole island	climate	bar	y
+27.82	28.72	Mad probably completely N of subtropical arid belt  now in trade wind zone	rainfall increase	whole island	climate	bar	y
+33	34	circum-Antarctic current complete  increasing S Indian Gyre	rainfall increase	whole island	climate	bar	y
+56.5	57.5	India moved north and lets S Indian drift hit Mad  increasing rainfall	rainfall increase	whole island	climate	bar	y
+56	20	Africa-to-Madgascar surface currents favourable to dispersal	ocean currents favorable for dispersal from Africa	whole island	biotic dispersal	bar	y
+12	5	short-lived landbridge between Africa and Madagascar	Africa-Madagascar landbridges	whole island	biotic dispersal	bar	y
+36	30	short-lived landbridge between Africa and Madagascar	Africa-Madagascar landbridges	whole island	biotic dispersal	bar	y
+66	60	short-lived landbridge between Africa and Madagascar	Africa-Madagascar landbridges	whole island	biotic dispersal	bar	y
+11.63	5.333	Indian monsoon hits N-most Madagascar	monsoons start to hit north	north	climate	bar	y
+34	34	Eocene-Oligocene boundary climate shift	Oligocene cooling	whole island	climate	bar	y
+91	84	separation from India-Seychelles block	separation from India	whole island	shade	shade	y
+160	150	separation from Africa	separation from Africa	whole island	shade	shade	y
+124.5	112	Madagascar may have reached most S position (52° lat) then reversed northwards	southernmost position at 52°	whole island	shade	shade	y
+72.1	33.9	substantial part of western Madagascar submerged during Maastrichtian-Eocene times	much of western plateau below sea level	west	shade	shade	y
+23.03	0	uplift in north of island	uplift in north	north	volcanism and mountain building	bar	y
+33.9	0	uplift in south of island	uplift in south	south	volcanism and mountain building	bar	y
+2.58	0	volcanism in Ankaratra  Itasy	Ankaratra & Itasy volcanism	centre	volcanism and mountain building	bar	y
+21.03	0	basaltic magmatism in north  centre and south	basaltic volcanism across island	whole island	volcanism and mountain building	bar	y
+5.333	2.58	last phase of Ankaratra volcanism	volcanism in centre	centre	volcanism and mountain building	bar	y
+5.333	2.58	Ambre volcanism	volcanism in north	north	volcanism and mountain building	bar	y
+33.9	5.333	growth of Tsaratanana	growth of highest peak	north	volcanism and mountain building	bar	y
+33.9	5.333	E-W extension with volcanism in Ankaratra	volcanism in centre	centre	volcanism and mountain building	bar	y
+15	10	mantel plume with volcanism beneath N Madagascar	volcanism in north	north	volcanism and mountain building	bar	y
+12.1	12.1	volcanic activity at Montagne d’Ambre	volcanism in north	north	volcanism and mountain building	bar	y
+27.82	23.03	start of Ankaratra volcanism	volcanism in centre	centre	volcanism and mountain building	bar	y
+47.8	41.2	volcanism in Tsaratanana  Manongarivo  Ampasindava	volcanism in north	north	volcanism and mountain building	bar	y
+92	84	formation of large igneous Basalt province across much of island	basaltic volcanism across island	whole island	volcanism and mountain building	bar	y
+10.6	11.6	volcanic activity at Bobaomby peninsula	volcanism in north	north	volcanism and mountain building	bar	y
