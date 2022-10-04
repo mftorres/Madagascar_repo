@@ -1,0 +1,43 @@
+time_Ma_from	time_Ma_to	description	short	location	type	bar_cat	do_as	plot
+65	27.82	Madagascar passes thorugh subtropical arid belt	dry period		climate	climate	bar	y
+5	0	evidence for repeatedly emerged stepping stone islands between Madagascar and India	Indian Ocean stepping stone islands	whole island	biotic dispersal	biotic dispersal	bar	y
+4	3	decrease in rainfall due to lower Indian Ocean temperature	dry period	whole island	climate	climate	bar	y
+27.82	28.72	Mad probably completely N of subtropical arid belt, now in trade wind zone	rainfall increase	whole island	climate	climate	bar	y
+33	33	circum-Antarctic current complete, increasing S Indian Gyre	rainfall increase	whole island	climate	climate	bar	y
+56.5	56.5	India moved north and lets S Indian drift hit Mad, increasing rainfall	rainfall increase	whole island	climate	climate	bar	y
+56	20	Africa-to-Madgascar surface currents favourable to dispersal	ocean currents favorable for dispersal from Africa	whole island	biotic dispersal	biotic dispersal	bar	y
+12	5	short-lived landbridge between Africa and Madagascar	potential Africa-Madagascar landbridges	whole island	biotic dispersal	biotic dispersal	bar	y
+36	30	short-lived landbridge between Africa and Madagascar	potential Africa-Madagascar landbridges	whole island	biotic dispersal	biotic dispersal	bar	y
+66	60	short-lived landbridge between Africa and Madagascar	potential Africa-Madagascar landbridges	whole island	biotic dispersal	biotic dispersal	bar	y
+11.63	5.333	Indian monsoon hits N-most Madagascar	monsoons start to hit north	north	climate	climate	bar	y
+34	34	Eocene-Oligocene boundary climate shift	Oligocene cooling	whole island	climate	climate	bar	y
+91	84	separation from India-Seychelles block	separation from India	whole island	shade		shade	y
+160	150	separation from Africa	separation from Africa	whole island	shade		shade	y
+124.5	112	Madagascar may have reached most S position (52° lat) then reversed northwards	southernmost position at 52°	whole island	shade		shade	y
+72.1	33.9	substantial part of western Madagascar submerged during Maastrichtian-Eocene times	much of western plateau below sea level	west	shade		shade	y
+23.03	0	uplift in north of island	uplift	north	volcanism and mountain building	mountain building	bar	y
+33.9	0	uplift in south of island	uplift	south	volcanism and mountain building	mountain building	bar	y
+2.58	0	volcanism in Ankaratra, Itasy	volcanism	centre	volcanism and mountain building	mountain building	bar	y
+21.03	0	basaltic magmatism in north, centre and south	volcanism	whole island	volcanism and mountain building	mountain building	bar	y
+5.333	2.58	last phase of Ankaratra volcanism	volcanism	centre	volcanism and mountain building	mountain building	bar	y
+5.333	2.58	Ambre volcanism	volcanism	north	volcanism and mountain building	mountain building	bar	y
+33.9	5.333	growth of Tsaratanana	volcanism	north	volcanism and mountain building	mountain building	bar	y
+33.9	5.333	E-W extension with volcanism in Ankaratra	volcanism	centre	volcanism and mountain building	mountain building	bar	y
+15	10	mantel plume with volcanism beneath N Madagascar	volcanism	north	volcanism and mountain building	mountain building	bar	y
+12.1	12.1	volcanic activity at Montagne d’Ambre	volcanism	north	volcanism and mountain building	mountain building	bar	y
+27.82	23.03	start of Ankaratra volcanism	volcanism	centre	volcanism and mountain building	mountain building	bar	y
+47.8	41.2	volcanism in Tsaratanana, Manongarivo, Ampasindava	volcanism	north	volcanism and mountain building	mountain building	bar	y
+92	84	formation of large igneous Basalt province across much of island	volcanism	whole island	volcanism and mountain building	mountain building	bar	y
+10.6	11.6	volcanic activity at Bobaomby peninsula	volcanism	north	volcanism and mountain building	mountain building	bar	y
+34	34	potentially larger extinction event due to shift to cooler climate	Oligocene climate shift my have caused extinctions	whole island				no
+100.5	66	cosmopolitan vertebrate species: links with other landmasses, including S. America	cosmopolitan vertebrates	whole island				no
+66		major extinctions at K-P boundary	K/P mass extinction	whole island				no
+88	66	lower Maevarano formation: terrestrial and freshwater fauna with birds, fish, dinosaurs, reptiles, amphibians and paleosols; seasonal rains under semi-arid conditions	semi-arid conditions in north-west	north-west				no
+65		Mad probably wholly south of subtropical arid belt, cool climate	cooler climate	whole island				no
+66		climate inferred to be cooler, less seasonal and dryer than today, but with humid areas	climate cooler, less seasonal than today	whole island				no
+15	0	Madagascar uplifted through mantle convection	island uplifted	whole island				no
+33.9	5.333	origin of Alaotra–Mangoro basin	Alaotra–Mangoro basin forms	centre				no
+140	23	marine conditions in western basins except Majunga basin	western basins marine	west				no
+72	66	upper Maevarano formation, Maastrichtian: marine limestone	north-west marine	north-west				no
+92	84	island probably flat and near-sea level	island flat	whole island				no
+10		Madagascar generally lower than 500 m	topography below 500 m	whole island				no
